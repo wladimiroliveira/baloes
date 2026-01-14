@@ -1,7 +1,9 @@
+import { GalleryContainer } from "@/app/ui/gallery/gallery";
+
 export default function Page() {
   return (
     <div>
-      <h1>Home</h1>
+      <GalleryContainer />
     </div>
   );
 }

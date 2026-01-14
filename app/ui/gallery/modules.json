@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Arcos",
+    "image": "/thumbs/arcos-thumb.svg"
+  },
+  {
+    "id": 2,
+    "name": "Base de Mesa",
+    "image": "/thumbs/base-mesa-thumb.svg"
+  },
+  {
+    "id": 3,
+    "name": "Chá Revelação",
+    "image": "/thumbs/revelacao-thumb.svg"
+  },
+  {
+    "id": 4,
+    "name": "Base de Chão",
+    "image": "/thumbs/base-chao-thumb.svg"
+  },
+  {
+    "id": 5,
+    "name": "Balões à gás hélio",
+    "image": "/thumbs/gas-helio-thumb.svg"
+  },
+  {
+    "id": 6,
+    "name": "Balões na Vareta",
+    "image": "/thumbs/vareta-thumb.svg"
+  },
+  {
+    "id": 7,
+    "name": "Topos de Bolo",
+    "image": "/thumbs/topos-thumb.svg"
+  }
+]
