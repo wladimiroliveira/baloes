@@ -36,7 +36,7 @@ export function MenuHamburguer() {
           "absolute left-0 pointer-events-none opacity-0 transition-all translate-y-8 p-4 text-center bg-primaria w-full",
           {
             "opacity-100 pointer-events-auto translate-y-10": open,
-          }
+          },
         )}
       >
         <h1 className="text-xl font-bold p-4">Balões Parauapebas</h1>

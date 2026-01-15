@@ -1,37 +1,142 @@
 [
   {
     "id": 1,
+    "group": "eventosDecoracoes",
     "name": "Arcos",
-    "image": "/thumbs/arcos-thumb.svg"
+    "image": "/thumbs/arcos-thumb.svg",
+    "photo": []
   },
   {
     "id": 2,
+    "group": "eventosDecoracoes",
     "name": "Base de Mesa",
-    "image": "/thumbs/base-mesa-thumb.svg"
+    "image": "/thumbs/base-mesa-thumb.svg",
+    "photo": []
   },
   {
     "id": 3,
+    "group": "eventosDecoracoes",
     "name": "Chá Revelação",
-    "image": "/thumbs/revelacao-thumb.svg"
+    "image": "/thumbs/revelacao-thumb.svg",
+    "photo": []
   },
   {
     "id": 4,
+    "group": "eventosDecoracoes",
     "name": "Base de Chão",
-    "image": "/thumbs/base-chao-thumb.svg"
+    "image": "/thumbs/base-chao-thumb.svg",
+    "photo": []
   },
   {
     "id": 5,
+    "group": "eventosDecoracoes",
     "name": "Balões à gás hélio",
-    "image": "/thumbs/gas-helio-thumb.svg"
+    "image": "/thumbs/gas-helio-thumb.svg",
+    "photo": []
   },
   {
     "id": 6,
+    "group": "eventosDecoracoes",
     "name": "Balões na Vareta",
-    "image": "/thumbs/vareta-thumb.svg"
+    "image": "/thumbs/vareta-thumb.svg",
+    "photo": []
   },
   {
     "id": 7,
+    "group": "eventosDecoracoes",
     "name": "Topos de Bolo",
-    "image": "/thumbs/topos-thumb.svg"
+    "image": "/thumbs/topos-thumb.svg",
+    "photo": []
+  },
+  {
+    "id": 8,
+    "group": "baloesTematicos",
+    "name": "Temáticas de Conscientização",
+    "image": "/thumbs/conscientizacao-thumb.svg",
+    "photo": []
+  },
+  {
+    "id": 9,
+    "group": "baloesTematicos",
+    "name": "Carnaval",
+    "image": "/thumbs/carnaval-thumb.svg",
+    "photo": []
+  },
+  {
+    "id": 10,
+    "group": "baloesTematicos",
+    "name": "Páscoa",
+    "image": "/thumbs/pascoa-thumb.svg",
+    "photo": []
+  },
+  {
+    "id": 11,
+    "group": "baloesTematicos",
+    "name": "Dia da Mulher",
+    "image": "/thumbs/dia-mulher-thumb.svg",
+    "photo": []
+  },
+  {
+    "id": 12,
+    "group": "baloesTematicos",
+    "name": "Dia das Mães",
+    "image": "/thumbs/dia-maes-thumb.svg",
+    "photo": []
+  },
+  {
+    "id": 13,
+    "group": "baloesTematicos",
+    "name": "Dia dos Namorados",
+    "image": "/thumbs/dia-namorados-thumb.svg",
+    "photo": []
+  },
+  {
+    "id": 14,
+    "group": "baloesTematicos",
+    "name": "Festa Junina",
+    "image": "/thumbs/festa-junina-thumb.svg",
+    "photo": []
+  },
+  {
+    "id": 15,
+    "group": "baloesTematicos",
+    "name": "Dia dos Pais",
+    "image": "/thumbs/dia-pais-thumb.svg",
+    "photo": []
+  },
+  {
+    "id": 16,
+    "group": "baloesTematicos",
+    "name": "Halloween",
+    "image": "/thumbs/halloween-thumb.svg",
+    "photo": []
+  },
+  {
+    "id": 17,
+    "group": "baloesTematicos",
+    "name": "Dia das Crianças",
+    "image": "/thumbs/dia-criancas-thumb.svg",
+    "photo": []
+  },
+  {
+    "id": 18,
+    "group": "baloesTematicos",
+    "name": "Natal",
+    "image": "/thumbs/natal-thumb.svg",
+    "photo": []
+  },
+  {
+    "id": 19,
+    "group": "baloesTematicos",
+    "name": "Ano Novo",
+    "image": "/thumbs/ano-novo-thumb.svg",
+    "photo": []
+  },
+  {
+    "id": 20,
+    "group": "presentesPersonalizados",
+    "name": "Caixa Box",
+    "image": "/thumbs/caixa-thumb.svg",
+    "photo": []
   }
 ]

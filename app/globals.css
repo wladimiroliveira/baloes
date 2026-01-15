@@ -5,6 +5,7 @@
   --background: #171717;
   --primaria: #ffefdf;
   --secundaria: #416e48;
+  --terciaria: #000;
 }
 
 @theme inline {
@@ -26,7 +27,6 @@
 }
 
 body {
-  background: var(--background);
+  background: var(--secundaria);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
 }
