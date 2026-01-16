@@ -7,11 +7,11 @@ import { useState } from "react";
 import clsx from "clsx";
 
 export function GalleryContainer() {
-  const [category, setCategory] = useState("eventoDecoracao");
+  const [category, setCategory] = useState("eventosDecoracoes");
   const current = thumbs.filter((thumb) => thumb?.group === category);
   return (
-    <div className="m-4 p-4 rounded-lg bg-primaria">
-      <div className="flex flex-nowrap gap-4 overflow-scroll">
+    <div className="flex-1 w-full p-4 rounded-lg bg-primaria max-w-4xl">
+      <div className="flex flex-nowrap overflow-scroll">
         <CategoryButton
           group="eventosDecoracoes"
           category={category}
@@ -45,9 +45,9 @@ export function GalleryContainer() {
           text="Produtos"
         />
       </div>
-      <ul className="flex flex-wrap justify-between gap-4">
+      <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
         {current.map((thumb) => (
-          <li key={thumb?.id}>
+          <li key={thumb?.id} className="">
             <GalleryPhoto
               src={thumb?.image}
               text={thumb?.name}
@@ -70,14 +70,16 @@ export function GalleryPhoto({
   count?: number | false;
 }) {
   return (
-    <div className="border p-4 bg-white rounded-lg">
+    <button className="border p-4 bg-white rounded-lg transition-all cursor-pointer hover:scale-[102%] hover:shadow-xl active:scale-100 active:shadow-xs">
       <Image className="w-35 mb-2" src={src} height={246} width={193} alt="" />
-      <p className="max-w-30">{text}</p>
-      <p>
-        {count}
-        {count && <CopyIcon />}
-      </p>
-    </div>
+      <div className="flex justify-between">
+        <p className="text-left max-w-30">{text}</p>
+        <p>
+          {count}
+          {count && <CopyIcon />}
+        </p>
+      </div>
+    </button>
   );
 }
 
@@ -95,9 +97,12 @@ export function CategoryButton({
   return (
     <button
       onClick={action}
-      className={clsx("whitespace-nowrap p-4 mb-4 font-medium", {
-        "border-b": category === group,
-      })}
+      className={clsx(
+        "whitespace-nowrap p-4 mb-4 font-medium transition-all hover:border-b",
+        {
+          "border-b": category === group,
+        },
+      )}
     >
       {text}
     </button>

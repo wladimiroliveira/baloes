@@ -27,6 +27,6 @@
 }
 
 body {
-  background: var(--secundaria);
+  background: var(--primaria);
   color: var(--foreground);
 }
