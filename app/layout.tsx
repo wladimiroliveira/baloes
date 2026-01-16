@@ -29,7 +29,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <Nav />
-        <main>{children}</main>
+        <main className="bg-secundaria">{children}</main>
       </body>
     </html>
   );
