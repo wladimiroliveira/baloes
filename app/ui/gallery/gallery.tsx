@@ -81,18 +81,18 @@ export function GalleryContainer() {
           {
             "pointer-events-auto opacity-100": open,
             "pointer-events-none opacity-0": !open,
-          },
+          }
         )}
       >
         <div className="w-full max-w-[1280px] p-4 text-right">
           <Button
-            className="cursor-pointer bg-white hover:bg-white/70"
-            size="icon"
+            className="cursor-pointer size-16 border bg-white hover:bg-white/70"
+            size="lg"
             onClick={() => {
               setOpen(false);
             }}
           >
-            <XCircleIcon className="text-black" />
+            <XCircleIcon className="size-6 text-black" />
           </Button>
         </div>
         <div className="mx-auto">
@@ -102,7 +102,7 @@ export function GalleryContainer() {
                 <CarouselItem key={photo?.id}>
                   <div className="">
                     <Card>
-                      <CardContent className="flex flex-1 flex-col aspect-square items-center justify-center p-6">
+                      <CardContent className="flex flex-1 flex-col gap-4 aspect-square items-center justify-center p-6">
                         <Image
                           src={photo?.image}
                           height={947}
@@ -110,6 +110,9 @@ export function GalleryContainer() {
                           alt={photo?.name}
                           className="rounded-sm"
                         />
+                        <p>
+                          {photo?.name} #{photo?.id}
+                        </p>
                       </CardContent>
                     </Card>
                   </div>
@@ -169,7 +172,7 @@ export function CategoryButton({
         "whitespace-nowrap cursor-pointer p-4 mb-4 font-medium transition-all hover:border-b border-black/70",
         {
           "border-b border-black/70": category === group,
-        },
+        }
       )}
     >
       {text}
