@@ -13,14 +13,16 @@ export function Banner() {
           />
         </div>
         <p className="text-lg font-bold text-[#B27D1A]">
-          “Sonhos são como os balões, é preciso coragem para deixá-los alcançar
-          o céu”
+          “Sonhos são como balões, é preciso coragem para{" "}
+          <span className="nowrap">solta-los</span> e{" "}
+          <span className="nowrap">deixá-los</span> alcançar o céu.”
         </p>
       </div>
       <div className="flex flex-1 w-full sm:hidden justify-center p-4 items-end h-36.75 bg-[url(/banner/banner-baloes-small.png)] bg-no-repeat bg-center rounded-lg px-4">
-        <p className="text-xs text-center font-bold w-34 text-primaria">
-          “Sonhos são como os balões, é preciso coragem para deixá-los alcançar
-          o céu”
+        <p className="text-xs text-center font-bold w-36 text-primaria">
+          “Sonhos são como balões, é preciso coragem para{" "}
+          <span className="nowrap">solta-los</span> e{" "}
+          <span className="nowrap">deixá-los</span> alcançar o céu.”
         </p>
       </div>
     </div>
