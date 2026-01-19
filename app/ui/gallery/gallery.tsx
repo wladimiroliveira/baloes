@@ -94,9 +94,9 @@ export function GalleryContainer() {
           },
         )}
       >
-        <div className="w-full max-w-7xl p-4 text-right mx-auto">
+        <div className="w-full max-w-7xl p-1 text-right mx-auto">
           <Button
-            className="cursor-pointer size-12 sm:size-16 border bg-white hover:bg-white/70"
+            className="cursor-pointer size-12 sm:size-12 border bg-white hover:bg-white/70"
             size="lg"
             onClick={() => {
               setOpen(false);

@@ -34,6 +34,186 @@
         "id": 6,
         "name": "Arco",
         "image": "/gallery/arcos/arco-6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-9.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-10.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-11.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-12.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-13.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-14.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-15.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-16.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-17.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-18.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-19.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-20.jpg"
+      },
+      {
+        "id": 21,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-21.jpg"
+      },
+      {
+        "id": 22,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-22.jpg"
+      },
+      {
+        "id": 23,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-23.jpg"
+      },
+      {
+        "id": 24,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-24.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-25.jpg"
+      },
+      {
+        "id": 26,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-26.jpg"
+      },
+      {
+        "id": 27,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-27.jpg"
+      },
+      {
+        "id": 28,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-28.jpg"
+      },
+      {
+        "id": 29,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-29.jpg"
+      },
+      {
+        "id": 30,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-30.jpg"
+      },
+      {
+        "id": 31,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-31.jpg"
+      },
+      {
+        "id": 32,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-32.jpg"
+      },
+      {
+        "id": 33,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-33.jpg"
+      },
+      {
+        "id": 34,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-34.jpg"
+      },
+      {
+        "id": 35,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-35.jpg"
+      },
+      {
+        "id": 36,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-36.png"
+      },
+      {
+        "id": 37,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-37.png"
+      },
+      {
+        "id": 38,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-38.png"
+      },
+      {
+        "id": 39,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-39.png"
+      },
+      {
+        "id": 40,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-40.png"
+      },
+      {
+        "id": 41,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-41.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Arco",
+        "image": "/gallery/arcos/arco-42.png"
       }
     ]
   },
@@ -142,6 +322,201 @@
         "id": 20,
         "name": "Base",
         "image": "/gallery/bases-mesa/base-20.jpg"
+      },
+      {
+        "id": 21,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-21.jpg"
+      },
+      {
+        "id": 22,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-22.jpg"
+      },
+      {
+        "id": 23,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-23.jpg"
+      },
+      {
+        "id": 24,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-24.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-25.jpg"
+      },
+      {
+        "id": 26,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-26.jpg"
+      },
+      {
+        "id": 27,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-27.jpg"
+      },
+      {
+        "id": 28,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-28.jpg"
+      },
+      {
+        "id": 29,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-29.jpg"
+      },
+      {
+        "id": 30,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-30.jpg"
+      },
+      {
+        "id": 31,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-31.jpg"
+      },
+      {
+        "id": 32,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-32.jpg"
+      },
+      {
+        "id": 33,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-33.jpg"
+      },
+      {
+        "id": 34,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-34.jpg"
+      },
+      {
+        "id": 35,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-35.jpg"
+      },
+      {
+        "id": 36,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-36.jpg"
+      },
+      {
+        "id": 37,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-37.jpg"
+      },
+      {
+        "id": 38,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-38.jpg"
+      },
+      {
+        "id": 39,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-39.jpg"
+      },
+      {
+        "id": 40,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-40.jpg"
+      },
+      {
+        "id": 41,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-41.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-42.jpg"
+      },
+      {
+        "id": 43,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-43.jpg"
+      },
+      {
+        "id": 44,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-44.jpg"
+      },
+      {
+        "id": 45,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-45.jpg"
+      },
+      {
+        "id": 46,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-46.jpg"
+      },
+      {
+        "id": 47,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-47.jpg"
+      },
+      {
+        "id": 48,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-48.jpg"
+      },
+      {
+        "id": 49,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-49.jpg"
+      },
+      {
+        "id": 50,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-50.jpg"
+      },
+      {
+        "id": 51,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-51.jpg"
+      },
+      {
+        "id": 52,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-52.jpg"
+      },
+      {
+        "id": 53,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-53.jpg"
+      },
+      {
+        "id": 54,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-54.png"
+      },
+      {
+        "id": 55,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-55.png"
+      },
+      {
+        "id": 56,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-56.png"
+      },
+      {
+        "id": 57,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-57.png"
+      },
+      {
+        "id": 58,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-58.png"
+      },
+      {
+        "id": 59,
+        "name": "Base",
+        "image": "/gallery/bases-mesa/base-59.png"
       }
     ]
   },
@@ -170,6 +545,51 @@
         "id": 4,
         "name": "Chá Revelação",
         "image": "/gallery/cha-revelacao/cha-revelacao-4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Chá Revelação",
+        "image": "/gallery/cha-revelacao/cha-revelacao-5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Chá Revelação",
+        "image": "/gallery/cha-revelacao/cha-revelacao-6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Chá Revelação",
+        "image": "/gallery/cha-revelacao/cha-revelacao-7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Chá Revelação",
+        "image": "/gallery/cha-revelacao/cha-revelacao-8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Chá Revelação",
+        "image": "/gallery/cha-revelacao/cha-revelacao-9.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Chá Revelação",
+        "image": "/gallery/cha-revelacao/cha-revelacao-10.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Chá Revelação",
+        "image": "/gallery/cha-revelacao/cha-revelacao-11.png"
+      },
+      {
+        "id": 12,
+        "name": "Chá Revelação",
+        "image": "/gallery/cha-revelacao/cha-revelacao-12.png"
+      },
+      {
+        "id": 13,
+        "name": "Chá Revelação",
+        "image": "/gallery/cha-revelacao/cha-revelacao-13.png"
       }
     ]
   },
@@ -203,6 +623,36 @@
         "id": 5,
         "name": "Base de Chão",
         "image": "/gallery/base-chao/base-chao-5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Base de Chão",
+        "image": "/gallery/base-chao/base-chao-6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Base de Chão",
+        "image": "/gallery/base-chao/base-chao-7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Base de Chão",
+        "image": "/gallery/base-chao/base-chao-8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Base de Chão",
+        "image": "/gallery/base-chao/base-chao-9.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Base de Chão",
+        "image": "/gallery/base-chao/base-chao-10.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Base de Chão",
+        "image": "/gallery/base-chao/base-chao-11.jpg"
       }
     ]
   },
@@ -281,6 +731,106 @@
         "id": 14,
         "name": "Gás Helio",
         "image": "/gallery/gas-helio/gas-helio-14.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-15.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-16.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-17.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-18.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-19.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-20.jpg"
+      },
+      {
+        "id": 21,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-21.jpg"
+      },
+      {
+        "id": 22,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-22.jpg"
+      },
+      {
+        "id": 23,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-23.jpg"
+      },
+      {
+        "id": 24,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-24.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-25.jpg"
+      },
+      {
+        "id": 26,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-26.jpg"
+      },
+      {
+        "id": 27,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-27.jpg"
+      },
+      {
+        "id": 28,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-28.jpg"
+      },
+      {
+        "id": 29,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-29.jpg"
+      },
+      {
+        "id": 30,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-30.jpg"
+      },
+      {
+        "id": 31,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-31.jpg"
+      },
+      {
+        "id": 32,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-32.jpg"
+      },
+      {
+        "id": 33,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-33.jpg"
+      },
+      {
+        "id": 34,
+        "name": "Gás Helio",
+        "image": "/gallery/gas-helio/gas-helio-34.png"
       }
     ]
   },
@@ -304,6 +854,66 @@
         "id": 3,
         "name": "Balões Vareta",
         "image": "/gallery/baloes-vareta/balao-vareta-3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Balões Vareta",
+        "image": "/gallery/baloes-vareta/balao-vareta-4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Balões Vareta",
+        "image": "/gallery/baloes-vareta/balao-vareta-5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Balões Vareta",
+        "image": "/gallery/baloes-vareta/balao-vareta-6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Balões Vareta",
+        "image": "/gallery/baloes-vareta/balao-vareta-7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Balões Vareta",
+        "image": "/gallery/baloes-vareta/balao-vareta-8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Balões Vareta",
+        "image": "/gallery/baloes-vareta/balao-vareta-9.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Balões Vareta",
+        "image": "/gallery/baloes-vareta/balao-vareta-10.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Balões Vareta",
+        "image": "/gallery/baloes-vareta/balao-vareta-11.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Balões Vareta",
+        "image": "/gallery/baloes-vareta/balao-vareta-12.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Balões Vareta",
+        "image": "/gallery/baloes-vareta/balao-vareta-13.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Balões Vareta",
+        "image": "/gallery/baloes-vareta/balao-vareta-14.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Balões Vareta",
+        "image": "/gallery/baloes-vareta/balao-vareta-15.png"
       }
     ]
   },
@@ -344,9 +954,39 @@
         "image": "/gallery/topos-bolo/topo-bolo-6.jpg"
       },
       {
-        "id": 7,
+        "id": 8,
         "name": "Topo Bolo",
-        "image": "/gallery/topos-bolo/topo-bolo-7.jpg"
+        "image": "/gallery/topos-bolo/topo-bolo-8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Topo Bolo",
+        "image": "/gallery/topos-bolo/topo-bolo-9.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Topo Bolo",
+        "image": "/gallery/topos-bolo/topo-bolo-10.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Topo Bolo",
+        "image": "/gallery/topos-bolo/topo-bolo-11.png"
+      },
+      {
+        "id": 12,
+        "name": "Topo Bolo",
+        "image": "/gallery/topos-bolo/topo-bolo-12.png"
+      },
+      {
+        "id": 13,
+        "name": "Topo Bolo",
+        "image": "/gallery/topos-bolo/topo-bolo-13.png"
+      },
+      {
+        "id": 14,
+        "name": "Topo Bolo",
+        "image": "/gallery/topos-bolo/topo-bolo-14.png"
       }
     ]
   },
@@ -364,12 +1004,12 @@
       {
         "id": 2,
         "name": "Temáticas de Conscientização",
-        "image": "/gallery/conscientizacao/conscientizacao-2.jpg"
+        "image": "/gallery/conscientizacao/conscientizacao-2.png"
       },
       {
         "id": 3,
         "name": "Temáticas de Conscientização",
-        "image": "/gallery/conscientizacao/conscientizacao-3.jpg"
+        "image": "/gallery/conscientizacao/conscientizacao-3.png"
       },
       {
         "id": 4,
@@ -385,6 +1025,16 @@
         "id": 6,
         "name": "Temáticas de Conscientização",
         "image": "/gallery/conscientizacao/conscientizacao-6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Temáticas de Conscientização",
+        "image": "/gallery/conscientizacao/conscientizacao-7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Temáticas de Conscientização",
+        "image": "/gallery/conscientizacao/conscientizacao-8.jpg"
       }
     ]
   },
@@ -515,6 +1165,11 @@
         "id": 6,
         "name": "Dia dos Namorados",
         "image": "/gallery/dia-namorados/dia-namorados-6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Dia dos Namorados",
+        "image": "/gallery/dia-namorados/dia-namorados-7.png"
       }
     ]
   },
@@ -676,6 +1331,155 @@
         "id": 8,
         "name": "Caixa Box",
         "image": "/gallery/caixa-box/caixa-box-8.jpg"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "group": "produtos",
+    "name": "Balões Diversos",
+    "image": "/gallery/baloes-diversos/balao-diverso-1.png",
+    "photo": [
+      {
+        "id": 1,
+        "name": "Balões Diversos",
+        "image": "/gallery/baloes-diversos/balao-diverso-1.png"
+      },
+      {
+        "id": 2,
+        "name": "Balões Diversos",
+        "image": "/gallery/baloes-diversos/balao-diverso-2.png"
+      },
+      {
+        "id": 3,
+        "name": "Balões Diversos",
+        "image": "/gallery/baloes-diversos/balao-diverso-3.png"
+      },
+      {
+        "id": 4,
+        "name": "Balões Diversos",
+        "image": "/gallery/baloes-diversos/balao-diverso-4.png"
+      },
+      {
+        "id": 5,
+        "name": "Balões Diversos",
+        "image": "/gallery/baloes-diversos/balao-diverso-5.png"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "group": "produtos",
+    "name": "Balões Gigantes",
+    "image": "/gallery/baloes-gigantes/balao-gigante-1.png",
+    "photo": [
+      {
+        "id": 1,
+        "name": "Balões Gigantes",
+        "image": "/gallery/baloes-gigantes/balao-gigante-1.png"
+      },
+      {
+        "id": 2,
+        "name": "Balões Gigantes",
+        "image": "/gallery/baloes-gigantes/balao-gigante-2.png"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "group": "produtos",
+    "name": "Cortina Foil",
+    "image": "/gallery/cortina-foil/cortina-foil-1.png",
+    "photo": [
+      {
+        "id": 1,
+        "name": "Cortina Foil",
+        "image": "/gallery/cortina-foil/cortina-foil-1.png"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "group": "produtos",
+    "name": "Foil Diversos",
+    "image": "/gallery/foil-diversos/foil-diversos-1.png",
+    "photo": [
+      {
+        "id": 1,
+        "name": "Foil Diversosl",
+        "image": "/gallery/foil-diversos/foil-diversos-1.png"
+      },
+      {
+        "id": 2,
+        "name": "Foil Diversosl",
+        "image": "/gallery/foil-diversos/foil-diversos-2.png"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "group": "produtos",
+    "name": "Formas Foil",
+    "image": "/gallery/formas-foil/forma-foil-1.png",
+    "photo": [
+      {
+        "id": 1,
+        "name": "Formas Foil",
+        "image": "/gallery/formas-foil/forma-foil-1.png"
+      },
+      {
+        "id": 2,
+        "name": "Formas Foil",
+        "image": "/gallery/formas-foil/forma-foil-2.png"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "group": "produtos",
+    "name": "Letras Foil",
+    "image": "/gallery/letras-foil/letra-foil-1.png",
+    "photo": [
+      {
+        "id": 1,
+        "name": "Letras Foil",
+        "image": "/gallery/letras-foil/letra-foil-1.png"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "group": "produtos",
+    "name": "Topos de Bolo",
+    "image": "/gallery/topos-bolo-plastico/topo-bolo-1.png",
+    "photo": [
+      {
+        "id": 1,
+        "name": "Topos de Bolo",
+        "image": "/gallery/topos-bolo-plastico/topo-bolo-1.png"
+      },
+      {
+        "id": 2,
+        "name": "Topos de Bolo",
+        "image": "/gallery/topos-bolo-plastico/topo-bolo-2.png"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "group": "produtos",
+    "name": "Velas para Bolo",
+    "image": "/gallery/velas-bolo/vela-bolo-1.png",
+    "photo": [
+      {
+        "id": 1,
+        "name": "Velas para Bolo",
+        "image": "/gallery/velas-bolo/vela-bolo-1.png"
+      },
+      {
+        "id": 2,
+        "name": "Velas para Bolo",
+        "image": "/gallery/velas-bolo/vela-bolo-2.png"
       }
     ]
   }
